@@ -38,7 +38,7 @@ After this now run
 on build directory.
 
 
-## Used Projects
+## Used Modules
 
 There some project used for visualisation.
 
@@ -46,10 +46,5 @@ There some project used for visualisation.
 - [rlImGui](https://github.com/raylib-extras/rlImGui) used for ease of integration between imgui and raylib.
 - [raylib](https://github.com/raysan5/raylib) used for rendering.
 
-
-
-## Authors
-
-- [@burakssen](https://www.github.com/burakssen) desing and development.
 
   
